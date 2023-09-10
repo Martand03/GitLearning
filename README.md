@@ -1,3 +1,3 @@
 # GitLearning
-My first Learning -:
+My First Learning -:
 To push from git bash
